@@ -1,2 +1,4 @@
 This is version two of my software
-Hy sarthak from git hub accoount
+Hy sarthak from git hub account
+
+comment added after git ignore
